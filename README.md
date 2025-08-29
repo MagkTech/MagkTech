@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Apostolos
 - 👀 I’m interested in web development and ethical hacking
-- 🌱 I’m currently learning data analyzing
+- 🌱 I’m currently learning network security
 - 📫 How to reach me webmaster@magklaras.tech
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I like Computers
+- ⚡ Fun fact: I use arch
 
 <!---
 MagkTech/MagkTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
